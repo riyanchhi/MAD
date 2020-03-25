@@ -49,6 +49,6 @@ import android.view.View;
         {
         alarmManager.cancel(pendingIntent);
         Toast.makeText(MainActivity.this, "ALARM OFF", Toast.LENGTH_SHORT).show();
-        }
+        } 
         }
         }
