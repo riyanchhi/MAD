@@ -1,4 +1,4 @@
-package com.example.chatapp;
+package com.example.bluetoothchatapp;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
