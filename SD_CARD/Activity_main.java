@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                                         fo.write(msg.getBytes());
                                         fo.close();
                                         Toast.makeText(getBaseContext(), "Data wrote to SD Card", Toast.LENGTH_LONG).show();
-                                } catch (IOException e) {
+                                } catch (IOException e) { 
                                         e.printStackTrace();
                                 }
                         }
