@@ -35,7 +35,7 @@ public void onCreate(Bundle savedInstanceState)
        Result = (TextView) findViewById(R.id.textView);
 
        // set a listener
-       Add.setOnClickListener(this);
+       Add.setOnClickListener(this); 
        Sub.setOnClickListener(this);
        Mul.setOnClickListener(this);
        Div.setOnClickListener(this);
