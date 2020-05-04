@@ -26,7 +26,7 @@ public class MainActivity extends Activity
         Paint paint = new Paint();
         paint.setColor(Color.rgb(85, 0, 255));
         paint.setTextSize(50);
-        //To draw a Rectangle
+        //To draw a Rectangle 
         canvas.drawText("Rectangle", 420, 150, paint);
         canvas.drawRect(400, 200, 700, 450, paint);
         //To draw a Circle
