@@ -24,7 +24,7 @@ public class MainActivity extends Activity implements OnClickListener
         Rollno=(EditText)findViewById(R.id.Rollno);
         Name=(EditText)findViewById(R.id.Name);
         Marks=(EditText)findViewById(R.id.Marks);
-        Insert=(Button)findViewById(R.id.Insert);
+        Insert=(Button)findViewById(R.id.Insert); 
         Delete=(Button)findViewById(R.id.Delete);
         Update=(Button)findViewById(R.id.Update);
         View=(Button)findViewById(R.id.View);
