@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                   case 1:
                       t.setTextColor(Color.RED);
                       break;
-                  case 2:
+                  case 2: 
                       t.setTextColor(Color.GREEN);
                       break;
                   case 3:
